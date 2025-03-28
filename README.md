@@ -1,7 +1,8 @@
 # flutter_text_decorator
 
 ![License](https://img.shields.io/github/license/EXXETA/flutter_tex_dec)
-
+<!-- ![Release](https://img.shields.io/github/release/EXXETA/flutter_tex_dec) -->
+<!-- [![pub package](https://img.shields.io/pub/v/flutter_tex_dec)](https://pub.dev/packages/flutter_tex_dec) -->
 
 ![Screenshot of Feature Grid](./documentation/img/overview.png)
 
